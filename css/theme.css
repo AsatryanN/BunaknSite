@@ -567,3 +567,12 @@ img.hover-shadow {
 .hover-shadow:hover {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
+.phone-num{
+color: #ff9408;
+text-align: center;
+}
+.blue-bg-head{
+height: auto;
+background-color: #1e485c;
+display: black;
+}

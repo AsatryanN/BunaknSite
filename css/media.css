@@ -324,7 +324,7 @@ http://www.templatemo.com/tm-473-november
 	.Banner_sec .Center {width: 100%; padding: 0px 3%; }
 	.Banner_sec .bannerside { top: 90px; }
 	.Banner_sec .leftside { padding: 0px 0px 10px 0px; width: 100%; float: none; }
-	.Banner_sec .leftside h3 { font-size: 30px; }
+	.Banner_sec .leftside h3 { font-size: 15px; }
 	.Banner_sec .leftside p { font-size: 14px; line-height: 18px; padding: 10px 0px; }
 	.Banner_sec .leftside a { font-size: 13px; }
 	.Banner_sec .rightside { width: 98%;}
@@ -340,7 +340,11 @@ http://www.templatemo.com/tm-473-november
 	.Banner_sec .rightside .nextBtn { top: 100px; right: 10px; }
 	.Banner_sec .rightside #slider li img { height: 290px; width: 100%;}	
 
-	
+	.ktexadrenq{font-size: 15px;}
+    .phone-num{font-size: 20px;}
+    .title-text{font-size: 18px;}
+    .blue-bg-head{height: auto;}
+
 	.bgcolor { height: 50px; }
 
 	#Container { width: 100%; }
